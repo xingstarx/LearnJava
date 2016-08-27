@@ -12,4 +12,4 @@
 
 - 其他的还需要进行一些题目分配，这个等待后续完善，需要保证的事，每一章节看完，至少实践10道题目
  
-
+有其他的疑问，比如是工具上的使用问题，eclipse开发工具，版本管理工具上的使用问题，都可以提出来。通过点击 [issue](https://github.com/xingstarx/LearnJava/issues)到issue页面创建新的issue
